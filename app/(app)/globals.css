@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+  --primary-500: #8a00c4;
+  --primary-400: #8f00ff;
+  --primary-300: #e7fbd7;
+  --primary-200: #f2f7ee;
+  --primary-100: #fafff6;
+
+  --secondary-500: #fac92a;
+  --secondary-400: #ffecad;
+  --secondary-300: #fff7a5;
+
+  --tertiary-300: #f0fbfb;
+}
